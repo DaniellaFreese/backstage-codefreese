@@ -101,3 +101,7 @@ catalog:
     #   target: https://github.com/backstage/backstage/blob/master/packages/catalog-model/examples/acme-corp.yaml
     #   rules:
     #     - allow: [User, Group]
+konnect:
+  baseUrl: https://us.api.konghq.com/v2/
+  cloudUrl: https://cloud.konghq.com/us
+  accessToken: <your-kpat>
